@@ -1,0 +1,154 @@
+body{
+    background: whitesmoke;
+    font-family: Helvetica,Arial,sans-serif;
+    color: black;
+}
+.PhoneImage{
+    position:absolute;
+    width: 500px;
+    height: 800px;
+    top:25px;
+    left:355px;
+}
+.box1{
+    position: absolute;
+    top: 90px;
+    right: 425px;
+    background-color: white;
+    width: 400px;
+    height: 470px;
+    border: 1px solid grey;
+    border-radius: 2px;
+}
+.InstagramLabel{
+    width: 200px;
+    height: 70px;
+    margin: 45px 0px 25px 100px;
+}
+input{
+    font-family: Helvetica,Arial,sans-serif;
+    width: 70%;
+    height: 30px;
+    border-radius: 4px;
+    border:1px solid #dddfe2;
+    padding: 5px;
+    margin: 5px 0px 5px 55px;
+    font-size: 13px;
+}
+button{
+    background-color: #166fe5;
+    color: white;
+    width: 73%;
+    height: 40px;
+    margin: 7px 0px 7px 55px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 4px;
+    border:1px solid #dddfe2;
+}
+
+.line1{
+    position:absolute;
+    top: 315px;
+    left: 55px;
+    width: 29%;
+    border: 1px solid grey;
+}
+.ili{
+    color: grey;
+    position: absolute;
+    top: 295px;
+    left: 184px;
+    font-size: 18.5px;
+}
+.line2{
+    position:absolute;
+    top: 315px;
+    left: 226px;
+    width: 29%;
+    border: 1px solid grey;
+}
+.FacebookIcon{
+    position: absolute;
+    top: 360px;
+    left: 95px;
+    width: 20px;
+}
+.FacebookLink{
+    position: absolute;
+    color: #385185;
+    top:360px;
+    left: 120px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.ForgotPassword{
+    position: absolute;
+    top: 400px;
+    left: 145px;
+    font-size: 14px;
+    text-decoration: none;
+}
+.box2{
+    position: absolute;
+    top: 590px;
+    right: 425px;
+    background-color: white;
+    width: 400px;
+    height: 65px;
+    border: 1px solid grey;
+    border-radius: 2px;
+}
+.box2Text{
+    margin: 22.5px 0px 15px 30px;
+    font-weight: bold; 
+}
+.RegistrationLink{
+    text-decoration: none;
+    color: #166fe5;
+}
+.box3{
+    position: absolute;
+    top: 665px;
+    right: 425px;
+    width: 400px;
+    height: 120px;
+}
+.box3Text{
+    margin-left: 112.5px;
+}
+.AppStoreIcon{
+    position: absolute;
+    top:50px;
+    left:45px;
+    width: 150px;
+}
+.GooglePlayIcon{
+    position: absolute;
+    top:50px;
+    right: 45px;
+    width: 150px
+}
+.box4{
+    position: absolute;
+    top: 850px;
+    left:380px;
+    width: 875px;
+    font-size: 14px;
+    text-align: center;
+    color: grey;
+}
+.TableLink{
+    text-decoration: none;
+}
+.table1{
+    border-spacing: 15px;
+}
+.table2{
+    margin-left: 42.5px;
+    border-spacing: 15px;
+}
+.table3{
+    margin-left: 300px;
+    border-spacing: 15px;
+}
