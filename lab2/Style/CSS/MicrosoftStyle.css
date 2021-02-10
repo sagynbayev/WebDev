@@ -74,7 +74,7 @@ body{
 }
 #mainpicture1{
     position: absolute;
-    width: 80%;
+    width: 84.5%;
     height: 600px;
     left: 235px;
 }
@@ -116,6 +116,58 @@ body{
 }
 .MiniBox1{
     position: absolute;
-    width: 400px;
+    width: 350px;
     height: 350px;
+    border: 1px solid black;
+}
+#teamsPicture{
+    width: 350px;
+    height: 225px;
+}
+.MiniBox2{
+    position: absolute;
+    left:385px;
+    width: 350px;
+    height: 350px;
+    border: 1px solid black;
+}
+#edgePicture{
+    width: 350px;
+    height: 225px;
+}
+.MiniBox3{
+    position: absolute;
+    left:770px;
+    width: 350px;
+    height: 350px;
+    border: 1px solid black;
+}
+#OneDrivePicture{
+    width: 350px;
+    height: 225px;
+}
+.MiniBox4{
+    position: absolute;
+    left:1160px;
+    width: 360px;
+    height: 350px;
+    border: 1px solid black;
+}
+#UpgradePicture{
+    width: 360px;
+    height: 225px;
+}
+.box4{
+    background-color: #e6e6e6;
+    position: absolute;
+    left: 80px;
+    top: 1090px;
+    width: 90%;
+    height: 600px;
+    border: 1px solid black;
+}
+#mainpicture2{
+    position: absolute;
+    
+    left: 235px;
 }
