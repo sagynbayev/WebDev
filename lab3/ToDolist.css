@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(235, 198, 198);
+    color: black;
+    font-family: sans-serif;
+}
+
+h1{
+    letter-spacing: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 120px 0px 20px;
+    font-size: 45px;
+}
+.box1{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1 input, .box1 button {
+    padding: 10px;
+    font-size: 17px;
+    border-radius: 5px;
+    margin: 17.5px;
+    border: 1px solid black;
+} 
+.box1 input{
+    width: 30%;
+}
+.box2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ListofCells{
+    width: 60%;
+    list-style: none;
+}
+.todo{
+    background-color: white;
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    margin: 10px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.todo li{
+    flex: 1;
+    padding: 10px;
+}
+.buttonTrash{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.completed{
+    text-decoration: line-through;
+    opacity: 0.3;
+}
+.buttonTrash.completed{
+    text-decoration: none;
+}
